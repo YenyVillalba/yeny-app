@@ -3,9 +3,9 @@ import React from "react";
 function WelcomeMessage(){
     return (
         <div>
-            <h1>
+            <h3>
                 ¡Bienvenidos a mi App de React!
-            </h1>
+            </h3>
         </div>
     );
 }
