@@ -4,7 +4,7 @@ function WelcomeMessage(){
     return (
         <div>
             <h3>
-                ¡Bienvenidos a mi App de React!
+                ¡Bienvenidos a mi App !
             </h3>
         </div>
     );
